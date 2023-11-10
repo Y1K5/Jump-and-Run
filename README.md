@@ -18,6 +18,8 @@
 
 # Game Screen
 ![JumpAndRun1](https://github.com/Y1K5/Jump-and-Run/assets/86797091/d813899b-e332-4ca3-9585-83ccaccc2fb5)
+
 하트를 다 잃었을 경우, 다시 시작 창이 뜬다.
 ![JumpAndRun2](https://github.com/Y1K5/Jump-and-Run/assets/86797091/5ae350df-6771-4a45-95ce-509eb8fca164)
+
 하트를 다 잃지 않고 맵을 끝까지 진행했을 경우, 성공 창이 뜬다.
